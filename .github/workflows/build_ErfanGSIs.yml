@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hkdl.exthmui.cf/exthmui/judyln/exthm-10.0-20201024-UNOFFICIAL-SNAPSHOT-judyln.zip
+  ROM_URL: https://hkdl.exthmui.cf/exthmui/h930/exthm-10.0-20210306-UNOFFICIAL-SNAPSHOT-h930.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
